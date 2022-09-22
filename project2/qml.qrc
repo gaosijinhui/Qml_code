@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Guage_1.qml</file>
+        <file>Guage_2.qml</file>
+        <file>Guage_3.qml</file>
+        <file>Guage_4.qml</file>
+        <file>Guage_5.qml</file>
+        <file>Guage_6.qml</file>
+        <file>Guage_7.qml</file>
+        <file>Guage_8.qml</file>
+        <file>Guage_9.qml</file>
+        <file>Guage_11.qml</file>
+        <file>Myview.qml</file>
+        <file>Mytable.qml</file>
+    </qresource>
+</RCC>
