@@ -289,8 +289,8 @@ ApplicationWindow {
         id:column1
         anchors.right: column2.left
         anchors.rightMargin: 5
-        y:column2.y
-        spacing: 30
+        y:column2.y+3
+        spacing: 38
         layoutDirection: Qt.RightToLeft
         Label{
             font.bold: true
@@ -323,17 +323,17 @@ ApplicationWindow {
         spacing: 25
         TextField{
             width: 80
-            height: 20
+            height: 25
             readOnly: true
         }
         TextField{
             width: 80
-            height: 20
+            height: 25
             readOnly: true
         }
         TextField{
             width: 80
-            height: 20
+            height: 25
             readOnly: true
         }
         TextField{
@@ -348,8 +348,8 @@ ApplicationWindow {
         id:column3
         anchors.right: column4.left
         anchors.rightMargin: 5
-        y:column4.y
-        spacing: 30
+        y:column4.y+3
+        spacing: 38
         layoutDirection: Qt.RightToLeft
         Label{
             font.bold: true
@@ -382,22 +382,22 @@ ApplicationWindow {
         spacing: 25
         TextField{
             width: 80
-            height: 20
+            height: 25
             readOnly: true
         }
         TextField{
             width: 80
-            height: 20
+            height: 25
             readOnly: true
         }
         TextField{
             width: 80
-            height: 20
+            height: 25
             readOnly: true
         }
         TextField{
             width: 80
-            height: 20
+            height: 25
             readOnly: true
         }
 
